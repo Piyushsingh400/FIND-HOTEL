@@ -1,3 +1,7 @@
+This mern project helps the user to find a hotel for them in a particular city.
+The offered rooms appear on the map or as normal cards using Mapbox.
+User can filter the rooms by the city or by the cost.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
